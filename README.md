@@ -1,1 +1,1 @@
-The above files are all JAVA basics which i practiced
+The above files are all JAVA basic progras which i practiced
