@@ -70,7 +70,7 @@ public class Main {
         Static.DoSomething("Hello Everyone!");
         hello1.DoSomethingElse("Non static method is used.");
         Static.age = 20;
-        System.out.println("Age: "+ hello1.age);
+        System.out.println("Age: " + Static.age);
     }
 }
 
